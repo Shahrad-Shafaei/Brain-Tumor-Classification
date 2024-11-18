@@ -6,10 +6,10 @@
 
 
 ### Models Used:
-I tested several pre-trained architectures, including VGG16, VGG19, MobileNet, Xception, and InceptionV3. Each model was fine-tuned and enhanced with techniques such as multi-head attention, Gaussian noise regularization, batch normalization, and dropout layers for improved performance and robustness.
+Tested several pre-trained architectures, including VGG16, VGG19, MobileNet, Xception, and InceptionV3. Each model was fine-tuned and enhanced with techniques such as multi-head attention, Gaussian noise regularization, batch normalization, and dropout layers for improved performance and robustness.
 
 ### Results:
-To evaluate model performance, I focused on key metrics: precision, recall, F1-score, and accuracy. Here’s how the models stacked up:
+To evaluate model performance, focused on key metrics: precision, recall, F1-score, and accuracy. Here’s how the models stacked up:
 - MobileNet led with impressive scores, achieving an accuracy of 97%.
 - VGG16 and VGG19 performed competitively with accuracies around 91-92%.
 - Other models like Xception and InceptionV3 showed unique strengths in recall and precision across certain classes.
